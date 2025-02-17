@@ -19,7 +19,7 @@ class StockSpanner {
             return ans;
             
         }
-    };
+};
     
     /**
      * Your StockSpanner object will be instantiated and called as such:
